@@ -1,13 +1,17 @@
 # Gabriel Sotomayor López
 
+[![Profile views](https://komarev.com/ghpvc/?username=GabrielSotomayorl&style=flat)](https://github.com/GabrielSotomayorl)
+[![Email](https://img.shields.io/badge/Email-gabrielsotomayorl%40gmail.com-blue?logo=gmail)](mailto:gabrielsotomayorl@gmail.com)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![Quarto](https://img.shields.io/badge/Quarto-1B7F7B?logo=quarto&logoColor=white)
+
+
 Sociologist • Lecturer (UDP) • Social Research Analyst (MDS, Chile)  
 I work on complex surveys, public policy, inequality, and quantitative methods. I teach R/data analysis for social scientists.
 
-[![Profile views](https://komarev.com/ghpvc/?username=GabrielSotomayorl&style=flat)](https://github.com/GabrielSotomayorl)
-[![Email](https://img.shields.io/badge/Email-gabrielsotomayorl%40gmail.com-blue?logo=gmail)](mailto:gabrielsotomayorl@gmail.com)
-[![Personal Site](https://img.shields.io/badge/Personal%20Site-GabrielSotomayorl.github.io-000000)](https://GabrielSotomayorl.github.io)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-![Quarto](https://img.shields.io/badge/Quarto-1B7F7B?logo=quarto&logoColor=white)
+[Personal website](https://GabrielSotomayorl.github.io) | [LinkedIn](https://www.linkedin.com/in/gabriel-sotomayor/)
+
+
 
 ---
 
