@@ -1,16 +1,19 @@
-## Hi there 👋
+# Gabriel Sotomayor López
 
-<!--
-**GabrielSotomayorl/GabrielSotomayorl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sociólogo • Analista de Investigación Social (MDS, Chile) • Profesor (UDP)  
+Enfoque en encuestas, políticas públicas, desigualdad y métodos cuantitativos.
 
-Here are some ideas to get you started:
+[![Email](https://img.shields.io/badge/Email-gabrielsotomayorl%40gmail.com-blue?logo=gmail)](mailto:gabrielsotomayorl@gmail.com)
+[![Website](https://img.shields.io/badge/Sitio-web-%23000000)](https://GabrielSotomayorl.github.io)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![Quarto](https://img.shields.io/badge/Quarto-1B7F7B?logo=quarto&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## Estadísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielSotomayorl&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSotomayorl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=GabrielSotomayorl)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=GabrielSotomayorl&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
